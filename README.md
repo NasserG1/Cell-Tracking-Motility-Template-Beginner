@@ -1,2 +1,2 @@
 # Cell-Tracking-Motility-Template
-Template to track cells and find their MSD as well as work from to extract other information
+Template to track cells and find their MSD as well as work from to extract other information.
